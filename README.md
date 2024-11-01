@@ -15,7 +15,7 @@ Banco de Dados , Docker , React , TypeScript e AzureDevOps.
 <br>
 <h3 align="left">Minhas Redes Sociais:</h3>
 <div>
- <a href="Vinioliveira2008y@gmail.com"><img style="margin:5px" height= "30em" src="https://github.com/user-attachments/assets/10a0bfb4-9019-4ccb-9e45-a9210b7d7b00"></a>
+ <a href="maulito-Vinioliveira2008y@gmail.com"><img style="margin:5px" height= "30em" src="https://github.com/user-attachments/assets/10a0bfb4-9019-4ccb-9e45-a9210b7d7b00"></a>
  <a href="https://www.linkedin.com/in/marcos-vinicius-72b82b2bb?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img style="margin:5px" height= "30em" src="https://github.com/user-attachments/assets/e6d9fe25-4d7d-4d43-89fb-606e5185b6d0"></a>
 <a href="https://github.com/viniciusx0800"><img style="margin:5px" height= "30em" src="https://github.com/user-attachments/assets/fb35865b-33eb-4d5b-ba50-8bed3d57d84f"></a>
 </div>
