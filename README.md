@@ -1,4 +1,4 @@
-## OPAA!! eu Sou o vinicius 👋
+## OPAA!!  vinicius 👋
 
 - 🔭 Hoje Trabalho como jovem aprendiz ⚡ 😄 
 - 🌱 Estudando Progamação 📫  
