@@ -1,5 +1,5 @@
 <h1 align="center">OPAA!!, Tudo Bem? Me Chamo Marcos Vinicius </h1>
-<h3 align="left">Um futuro desenvolvedor 👨‍💻,<br>Tenho Conhecimento nas seguintes ferramentas. <br> sobre Logica de Progamação, Git e Github <br> Linguagem de Marcação e Estilo , Linguagem de Progamação <br> .Net , 
+<h3 align="left">Um futuro desenvolvedor 👨‍💻,<br>No momento estou estudando as seguintes ferramentas. <br> Logica de Progamação, Git e Github <br> Linguagem de Marcação e Estilo , Linguagem de Progamação <br> .Net , 
 Banco de Dados , Docker , React , TypeScript e AzureDevOps.
 </h3>
 
