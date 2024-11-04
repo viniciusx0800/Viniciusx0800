@@ -1,6 +1,10 @@
-<h1 align="center">OPAA!!, Tudo Bem? Me Chamo Marcos Vinicius </h1>
-<h3 align="left">Um futuro desenvolvedor 👨‍💻,<br>No momento estou estudando as seguintes ferramentas. <br> Logica de Progamação, Git e Github <br> Linguagem de Marcação e Estilo , Linguagem de Progamação <br> .Net , 
-Banco de Dados , Docker , React , TypeScript e AzureDevOps.
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0ac47f&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Marcos+Vinicius;Tenho+17+Anos;Moro+em+Salvador,+BA;Seja+Bem+vindo!+:%29)](https://git.io/typing-svg) 
+
+
+<h3 align="left"> Desenvolvedor em formação.👨‍💻,<br>No momento estou estudando as seguintes ferramentas. <br> Logica de Progamação, Git e Github <br> Front-end: HTML, CSS, React, TypeScript , <br> Back-end .NET, Banco de dados (SQL e/ou NoSQL) <br> Docker, Azure DevOps
+
 </h3>
 
 #### Pode encontrar todos os meus projetos disponíveis em [Viniciusx0800](https://github.com/viniciusx0800) 
@@ -11,7 +15,6 @@ Banco de Dados , Docker , React , TypeScript e AzureDevOps.
   <img height= "180em" src="https://github-readme-stats.vercel.app/api?username=Viniciusx0800&show_icons=true&theme=github_dark&locale=en" alt="mau-me" />
   <img height= "180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Viniciusx0800&show_icons=true&theme=github_dark&locale=en&layout=compact" alt="mau-me" />
 </div>
-
 <br>
 <h3 align="left">Minhas Redes Sociais:</h3>
 <div>
@@ -41,3 +44,9 @@ Banco de Dados , Docker , React , TypeScript e AzureDevOps.
   <img align="center" alt="vini-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="vini-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
+<br>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Viniciusx0800&bg_color=2325296&color=00bfbf&line=07e9a5&point=29195e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0ac47f&height=120&section=footer"/>
