@@ -7,7 +7,7 @@
 
 </h3>
 
-#### Pode encontrar todos os meus projetos disponíveis em [Viniciusx0800](https://github.com/viniciusx0800) 
+#### Pode encontrar todos os meus projetos disponíveis em [Viniciusx0800](https://github.com/viniciusx0800?tab=repositories) 
 
 <br>
 
