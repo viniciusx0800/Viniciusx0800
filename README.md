@@ -12,8 +12,8 @@
 <br>
 
 <div>
-  <img height= "180em" src="https://github-readme-stats.vercel.app/api?username=Viniciusx0800&show_icons=true&theme=github_dark&locale=en" alt="mau-me" />
-  <img height= "180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Viniciusx0800&show_icons=true&theme=github_dark&locale=en&layout=compact" alt="mau-me" />
+  <img height= "180em" src="https://github-readme-stats.vercel.app/api?username=Viniciusx0800&show_icons=true&theme=github_dark&locale=en" alt="Viniciusx0800" />
+  <img height= "180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Viniciusx0800&show_icons=true&theme=github_dark&locale=en&layout=compact" alt="Viniciusx0800" />
 </div>
 <br>
 <h3 align="left">Minhas Redes Sociais:</h3>
