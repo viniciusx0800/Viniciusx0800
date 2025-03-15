@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0ac47f&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Marcos+Vinicius;Tenho+17+Anos;Moro+em+Salvador,+BA;Seja+Bem+vindo!+:%29)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Marcos+Vinicius;Moro+em+Salvador,+BA;Seja+Bem+vindo!+:%29)](https://git.io/typing-svg) 
 
 
 <h3 align="left"> Desenvolvedor em formação.👨‍💻,<br>No momento estou estudando as seguintes ferramentas. <br> Logica de Progamação, Git e Github <br> Front-end: HTML, CSS, React, TypeScript e JavaScript <br> Back-end .NET, Banco de dados (SQL e/ou NoSQL) <br> Docker, Azure DevOps
